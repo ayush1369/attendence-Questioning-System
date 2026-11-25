@@ -1,0 +1,6 @@
+{
+  "name": "AttendQA — Attendance Questioning System",
+  "description": "Classical AI document question answering system for student attendance records using structured knowledge representation, weighted keyword scoring, and IF-THEN inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
